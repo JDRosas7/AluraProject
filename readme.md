@@ -18,4 +18,4 @@ Este es un proyecto web interactivo para organizar un sorteo de "Amigo Secreto".
 ## 📌 Cómo usarlo
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tuusuario/amigo-secreto.git](https://github.com/JDRosas7/AluraProject)
+   git clone [[https://github.com/tuusuario/amigo-secreto.git](https://github.com/JDRosas7/AluraProject/blob/main/amigosecreto)]
